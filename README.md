@@ -1,5 +1,5 @@
 # 📗miniguia-estudos-notebooklm
-miniguia-estudos-notebooklm
+miniguia-estudos-notebooklm.
 🤖Projeto para a DIO: Explore o poder do NotebookLM  
 Para que serve o tecido tricoline?  
 Acesse o link:  
